@@ -1,6 +1,6 @@
 # Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection
 
-This is the official implementation of the paper "Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection".
+This is the official implementation of the paper "Reliable Student: Addressing Noise in Semi-Supervised 3D Object Detection" [[arXiv](https://arxiv.org/abs/2404.17910)].
 
 ## Results
 
